@@ -1,0 +1,66 @@
+.body-parser{
+  width: auto;
+  height: 100px;
+}
+
+
+.g-3 > .col {
+  margin-bottom: 15px; /* Adjust the margin between columns */
+}
+
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card p,
+.card h3 {
+  margin: 10px 0;
+}
+
+.card button {
+  margin-top: 10px;
+}
+
+/* .home-page{
+   width: 30%;
+   padding-left: 1%;
+   margin-left: 5%;
+   display: flex;
+   border:2px solid red
+  } */
+
+.no-link{
+  text-decoration: none;
+  color: white;
+}
+.CONTACT-PAGE{
+  text-align: center;
+  justify-content: center;
+  width: 25rem;
+  margin-left: 30%;
+}
+.container{
+  margin-top: 3%;
+}
+.slideshow{
+   justify-content: center;
+   text-align: center;
+  margin-top: 2%;
+}
+.slideshow-container{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.logincard{
+  margin-top: 5%;
+   justify-content: center;
+    margin-inline: 7%;
+   box-shadow: 1rem;
+  margin-bottom: 2%;
+}
+.filter{
+  margin-top: 1%;
+ 
+}
